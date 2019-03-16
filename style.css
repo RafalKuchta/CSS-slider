@@ -35,6 +35,12 @@ body {
     justify-content: center;
 }
 
+@media (orientatiion: portrait) {
+    slider {
+    padding-left: 5px;
+}
+   } 
+
 .slider {
     height: 50px;
     padding-left: 15px;
